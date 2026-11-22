@@ -1,0 +1,71 @@
+"Phrases"
+{
+	"Hint"
+	{
+		"#format"	"{1:N}"
+		"en"		"Press E (or type !takeover) to take control of {1}"
+		"fr"		"Appuie sur E (ou tape !takeover) pour prendre le contrôle de {1}"
+	}
+	"Took Over"
+	{
+		"#format"	"{1:s}"
+		"en"		"You took control of {1}."
+		"fr"		"Tu as pris le contrôle de {1}."
+	}
+	"Teammate Took Over"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{1} took control of {2}."
+		"fr"		"{1} a pris le contrôle de {2}."
+	}
+	"Disabled"
+	{
+		"en"		"Bot takeover is disabled."
+		"fr"		"La prise de contrôle des bots est désactivée."
+	}
+	"Must Be Dead"
+	{
+		"en"		"Only dead players can take control of a bot."
+		"fr"		"Seuls les joueurs morts peuvent prendre le contrôle d'un bot."
+	}
+	"Must Be In A Team"
+	{
+		"en"		"Join a team first."
+		"fr"		"Rejoins d'abord une équipe."
+	}
+	"Not Watching A Bot"
+	{
+		"en"		"Spectate a living bot of your team to take control of it."
+		"fr"		"Regarde un bot vivant de ton équipe pour en prendre le contrôle."
+	}
+	"Round Over"
+	{
+		"en"		"The round is over."
+		"fr"		"Le round est terminé."
+	}
+	"Freeze Time"
+	{
+		"en"		"Wait for the end of the freeze time."
+		"fr"		"Attends la fin du freezetime."
+	}
+	"Limit Reached"
+	{
+		"en"		"You already took control of a bot this round."
+		"fr"		"Tu as déjà pris le contrôle d'un bot ce round."
+	}
+	"Bot In Combat"
+	{
+		"en"		"This bot is under fire, try again in a moment."
+		"fr"		"Ce bot se fait tirer dessus, réessaie dans un instant."
+	}
+	"Bot Busy"
+	{
+		"en"		"This bot is planting, defusing or on a ladder, try again in a moment."
+		"fr"		"Ce bot pose ou désamorce la bombe, ou est sur une échelle : réessaie dans un instant."
+	}
+	"No Room"
+	{
+		"en"		"There is no room to stand where this bot is."
+		"fr"		"Il n'y a pas la place de se tenir debout là où est ce bot."
+	}
+}
